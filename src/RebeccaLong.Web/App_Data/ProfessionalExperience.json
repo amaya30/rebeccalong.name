@@ -1,1 +1,58 @@
-﻿
+﻿{
+  "jobs": [
+    {
+      "title": "Software Quality Assurance Engineer III",
+      "company": "STCU",
+      "companyUrl": "https://stcu.org/",
+      "startDate": 2012,
+      "endDate": "",
+      "city": "Spokane",
+      "state": "Washington"
+    },
+    {
+      "title": "Adjunct Instructor of Compueter Science",
+      "company": "North Idaho College",
+      "companyUrl": "https://www.nic.edu/",
+      "startDate": 2015,
+      "endDate": 2015,
+      "city": "Coeur d'Alene",
+      "state": "Idaho"
+    },
+    {
+      "title": "Senior Software Quality Assurance Engineer",
+      "company": "NextIT",
+      "companyUrl": "http://www.nextit.com/",
+      "startDate": 2007,
+      "endDate": 2012,
+      "city": "Spokane",
+      "state": "Washington"
+    },
+    {
+      "title": "Information Technology Intern",
+      "company": "Goodrich",
+      "companyUrl": "http://utcaerospacesystems.com/",
+      "startDate": 2009,
+      "endDate": 2009,
+      "city": "Spokane",
+      "state": "Washington"
+    },
+    {
+      "title": "Adjunct Instructor of Computer Science",
+      "company": "Spokane Community College",
+      "companyUrl": "http://www.scc.spokane.edu/",
+      "startDate": 2008,
+      "endDate": 2009,
+      "city": "Spokane",
+      "state": "Washington"
+    },
+    {
+      "title": "Web Developer",
+      "company": "AdWebSites",
+      "companyUrl": "",
+      "startDate": 2002,
+      "endDate": 2004,
+      "city": "Spokane",
+      "state": "Washington"
+    }
+  ]
+}

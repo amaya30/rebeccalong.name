@@ -990,6 +990,13 @@
     <Content Include="Scripts\i18n\angular-locale_zu.js" />
     <Content Include="Scripts\jquery-2.2.1.js" />
     <Content Include="Scripts\jquery-2.2.1.min.js" />
+    <Content Include="App_Data\ProfessionalExperience.json" />
+    <Content Include="App_Data\Education.json" />
+    <Content Include="App_Data\Publications.json" />
+    <Content Include="App_Data\Presentations.json" />
+    <Content Include="App_Data\Volunteer.json" />
+    <Content Include="App_Data\Honors.json" />
+    <Content Include="App_Data\Contact.json" />
     <None Include="Scripts\jquery.validate-vsdoc.js" />
     <Content Include="Scripts\jquery.validate.js" />
     <Content Include="Scripts\jquery.validate.min.js" />
@@ -1016,7 +1023,6 @@
     <Content Include="Scripts\version.json" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="App_Data\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>

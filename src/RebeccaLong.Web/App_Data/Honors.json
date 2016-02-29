@@ -7,12 +7,28 @@
 
   "memberships": [
     {
+      "organization": "Inland Northwest Technologies",
+      "association": "Member",
+      "city": "Spokane",
+      "state": "Washington",
+      "startYear": 2016,
+      "endYear": ""
+    },
+    {
       "organization": "SpoQuality",
       "association": "Co-Founder",
       "city": "Spokane",
       "state": "Washington",
       "startYear": 2013,
-      "endYear": "Current"
+      "endYear": ""
+    },
+    {
+      "organization": "Spokane .NET User Group",
+      "association": "Member",
+      "city": "Spokane",
+      "state": "Washington",
+      "startYear": 2010,
+      "endYear": ""
     },
     {
       "organization": "Spokane Geek Girls",
