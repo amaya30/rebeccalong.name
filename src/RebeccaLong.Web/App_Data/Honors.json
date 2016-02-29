@@ -1,0 +1,42 @@
+﻿{
+  "honors": [
+    {
+
+    }
+  ],
+
+  "memberships": [
+    {
+      "organization": "SpoQuality",
+      "association": "Co-Founder",
+      "city": "Spokane",
+      "state": "Washington",
+      "startYear": 2013,
+      "endYear": "Current"
+    },
+    {
+      "organization": "Spokane Geek Girls",
+      "association": "Co-Founder",
+      "city": "Spokane",
+      "state": "Washington",
+      "startYear": 2011,
+      "endYear": 2015
+    },
+    {
+      "organization": "Association for Computing Machinery",
+      "association": "Professional Member",
+      "city": "",
+      "state": "",
+      "startYear": 2009,
+      "endYear": 2010
+    },
+    {
+      "organization": "Association for Computing Machinery",
+      "association": "Student Member",
+      "city": "",
+      "state": "",
+      "startYear": 2003,
+      "endYear": 2009
+    }
+  ]
+}

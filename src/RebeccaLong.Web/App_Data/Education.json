@@ -1,0 +1,38 @@
+﻿{
+  "degrees":[
+    {
+      "degree": "Master of Science",
+      "major": "Computer Science",
+      "minor": "",
+      "school": "Eastern Washington University",
+      "schoolUrl": "http://www.ewu.edu/",
+      "awarded": 2013,
+      "category": "graduate"
+    },
+    {
+      "degree": "Bachelor of Arts",
+      "major": "Computer Science Theory",
+      "minor": "Mathematics",
+      "school": "Eastern Washington University",
+      "schoolUrl": "http://www.ewu.edu/",
+      "awarded": 2006,
+      "category": "undergraduate"
+    },
+    {
+      "degree": "Associate of Arts",
+      "major": "Liberal Arts",
+      "school": "Spokane Community College",
+      "schoolUrl": "http://www.scc.spokane.edu/",
+      "awarded": 2004,
+      "category": "undergraduate"
+    },
+    {
+      "degree": "Associate of Applied Science",
+      "major": "Web Development",
+      "school": "Spokane Community College",
+      "schoolUrl": "http://www.scc.spokane.edu/",
+      "awarded": 2002,
+      "category": "undergraduate"
+    }
+  ]
+}
