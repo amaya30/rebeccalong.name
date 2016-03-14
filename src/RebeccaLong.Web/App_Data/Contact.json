@@ -1,1 +1,29 @@
-﻿
+﻿{
+  "contact": [
+    {
+      "type": "Facebook",
+      "link": "http://www.facebook.com/amaya30",
+      "icon": ""
+    },
+    {
+      "type": "Twitter",
+      "link": "http://twitter.com/amaya30",
+      "icon": ""
+    },
+    {
+      "type": "LinkedIn",
+      "link": "http://www.linkedin.com/in/amaya30",
+      "icon": ""
+    },
+    {
+      "type": "Tumblr",
+      "link": "http://amaya30.tumblr.com/",
+      "icon": ""
+    },
+    {
+      "type": "YouTube",
+      "link": "http://youtube.com/amaya30",
+      "icon": ""
+    }
+  ]
+}

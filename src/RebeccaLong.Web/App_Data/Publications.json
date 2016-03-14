@@ -2,8 +2,8 @@
   "publications": [
     {
       "title": "Tutorial: Usable Security Policies + User Training: The Best Method to Counter Social Engineering Attacks",
-      "publishLocation": "The International Workshop on Infrastructure Assurance",
-      "publishUrl": "http://iwia2010.ewu.edu/index.php/IWiA2010",
+      "Location": "The International Workshop on Infrastructure Assurance",
+      "url": "http://iwia2010.ewu.edu/index.php/IWiA2010",
       "city": "Morioka",
       "state": "Iwate",
       "country": "Japan",

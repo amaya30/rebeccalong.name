@@ -1,7 +1,32 @@
 ﻿{
   "honors": [
     {
-
+      "honor": "Google Workshop for Women Engineers",
+      "city": "Mountain View",
+      "state": "California",
+      "startYear": 2006,
+      "endYear": ""
+    },
+    {
+      "honor": "Graduate Service Appointment as Computer Literacy Instructor",
+      "city": "Cheney",
+      "state": "Washington",
+      "startYear": 2006,
+      "endYear": 2008
+    },
+    {
+      "honor": "CRA-W Grad Cohort Workshop",
+      "city": "Seatte",
+      "state": "Washington",
+      "startYear": 2008,
+      "endYear": ""
+    },
+    {
+      "honor": "CRA-W Grad Cohort Workshop",
+      "city": "San Francisco",
+      "state": "California",
+      "startYear": 2009,
+      "endYear": ""
     }
   ],
 

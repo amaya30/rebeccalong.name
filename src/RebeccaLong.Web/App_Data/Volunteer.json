@@ -1,1 +1,22 @@
-﻿
+﻿{
+  "volunteer": [
+    {
+      "title": "Career Mentor to Computer Science Students",
+      "organization": "Eastern Washington University",
+      "startYear": 2013,
+      "endYear": 2016
+    },
+    {
+      "title": "FurrBall Tree Decorator",
+      "organization": "Spokane Humane Society",
+      "startYear": 2012,
+      "endYear": 2013
+    },
+    {
+      "title": "Taekwondo Instructor",
+      "organization": "Defense Arts Academy",
+      "startYear": 2001,
+      "endYear": 2004
+    }
+  ]
+}

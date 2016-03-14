@@ -1,1 +1,94 @@
-﻿
+﻿{
+  "presentations": [
+    {
+      "title": "Using Phishing to Test Social Engineering Awareness of Financial Employees",
+      "location": "Grace Hopper Celebration of Women in Computing Conference",
+      "url": "http://gracehopper.org/2011/",
+      "city": "Portland",
+      "state": "Oregon",
+      "country": "United States",
+      "month": "November",
+      "year": 2011
+    },
+    {
+      "title": "What It Is Like In The Workforce - Things To Know Before You Graduate",
+      "location": "Eastern Washington University ACM Club Meeting",
+      "url": "http://www.ewu.edu/cstem/programs/computer-science",
+      "city": "Cheney",
+      "state": "Washington",
+      "country": "United States",
+      "month": "October",
+      "year": 2010
+    },
+    {
+      "title": "Social Engineering Awareness in a Financial Institution",
+      "location": "Eastern Washington University - Iwate Prefecture University Workshop",
+      "url": "http://iwia2010.ewu.edu/index.php/IWiA2010",
+      "city": "Cheney",
+      "state": "Washington",
+      "country": "United States",
+      "month": "August",
+      "year": 2010
+    },
+    {
+      "title": "Social Engineering Training in a Financial Institution",
+      "location": "Fourth IFIP WG 11.11 International Conference on Trust Management",
+      "url": "http://www.ifiptm.org/",
+      "city": "Morioka",
+      "state": "Iwate",
+      "country": "Japan",
+      "month": "",
+      "year": 2010
+    },
+    {
+      "title": "Effectiveness of Social Engineering Training in a Financial Institution",
+      "location": "Eastern Washington University Computer Science Department Curriculum Committee",
+      "url": "http://www.ewu.edu/cstem/programs/computer-science",
+      "city": "Cheney",
+      "state": "Washington",
+      "country": "United States",
+      "month": "October",
+      "year": 2009
+    },
+    {
+      "title": "Human Factors and Social Engineering",
+      "location": "CSCD 500 Graduate Student Colloquium, Eastern Washington University Computer Science Department",
+      "url": "https://www.youtube.com/watch?v=F_q2ygXXHyk&list=PLI4B5hSF6-Vcz-Dad_U8P0UuIhYD5fEl2&index=5",
+      "city": "Cheney",
+      "state": "Washington",
+      "country": "United States",
+      "month": "",
+      "year": 2009
+    },
+    {
+      "title": "Effectiveness of Social Engineering Training in a Financial Institution",
+      "location": "Eastern Washington University - Iwate Prefecture University Workshop",
+      "url": "http://www.comm.soft.iwate-pu.ac.jp/ewu/2009/report/report2009.pdf",
+      "city": "Cheney",
+      "state": "Washington",
+      "country": "United States",
+      "month": "",
+      "year": 2009
+    },
+    {
+      "title": "Research into Social Engineering Defenses",
+      "location": "CRA-W Grad Cohort Workshop",
+      "url": "http://cra-w.org/graduate-cohort-workshop",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "month": "",
+      "year": 2009
+    },
+    {
+      "title": "Social Engineering Research Proposal",
+      "location": "Eastern Washington University - Iwate Prefecture University Workshop",
+      "url": "http://www.comm.soft.iwate-pu.ac.jp/ewu/2008/report/report2008.pdf",
+      "city": "Cheney",
+      "state": "Washington",
+      "country": "United States",
+      "month": "",
+      "year": 2008
+    }
+  ]
+}
